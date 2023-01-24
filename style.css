@@ -1,0 +1,62 @@
+h1{
+    background-color: white;
+    color: #5080fe;
+    padding: 10px;
+}
+.cardContainer{
+ margin-top: 10px;
+    height: 25vh;
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.main{
+    margin-left:100px;
+    width: 85%;
+    background-color: #5080fe;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mainboth{
+   
+    background-color: white;
+    height: 20vh;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px;
+    align-items: center;
+}
+#dynamicHeading{
+    margin-top: -1px;
+    width: 100%;
+    height: 20vh;
+    color: white;
+    text-align: center;
+    height: fit-content;
+    background-color:#205ec3;
+    text-transform: capitalize;
+}
+.mainboth input{
+    height: 35px;
+    width: 70%;
+}
+.mainboth button{
+    padding: 10px;
+    width: 30%;
+    margin-top: 20px;
+    background-color: #205ec3;
+    color: white;
+    border: 2px solid #205ec3;
+    border-radius: 5px;
+}
+#location{
+    color: #9edefc;
+}
+#records{
+    color: rgb(229, 67, 61);
+}
